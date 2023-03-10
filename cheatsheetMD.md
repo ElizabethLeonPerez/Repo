@@ -11,10 +11,8 @@ Se pueden insertar botones por medio de imágenes. Entre `[]` se inserta la imag
 
 
 ## Lineas horizontales
-* * *
-***
-*****
-- - -
+Cualquiera de estas opciones crea una linea horizontal.  
+`* * *` `***` `*****` `- - -` `---------------------------------------`  
 ---------------------------------------
 
 Para hacer una linea fina se puede poner solo el `#`
